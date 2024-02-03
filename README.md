@@ -1,4 +1,4 @@
-# data-automation
+# data entry-automation
 
 This Python script utilizes the Selenium library to automate interactions with a web application. Let's break down the code and provide an explanation:
 
